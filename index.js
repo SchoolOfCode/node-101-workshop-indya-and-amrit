@@ -1,3 +1,5 @@
+import myCollection from "./collection.js"
+
 
 console.log(myCollection);
 
