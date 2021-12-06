@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-indya-and-amrit/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-indya-and-amrit#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-indya-and-amrit#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
