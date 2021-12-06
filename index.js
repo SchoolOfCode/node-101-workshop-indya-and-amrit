@@ -28,3 +28,12 @@ function describeItem(item){
 }
 
 describeItem(myCollection[0])
+
+
+function describeCollection(array) {
+    array.forEach(element => {
+        describeItem(element);
+    });;
+}
+
+describeCollection(myCollection); 
